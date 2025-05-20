@@ -66,7 +66,7 @@ const Header = () => {
             <Facts/>
             <div className="header__info__bottom">
                <button className="btn">Download CV</button>
-               <a href="mailto:sundards62@gmail.com" className="btn">Email Me</a>
+               <a href="mailto:vijayakumar9303@gmail.com" className="btn">Email Me</a>
             </div>
           </div>
         </div>
