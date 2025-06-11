@@ -245,15 +245,15 @@ export const experience = [
         data:[
             {
                 skill:"HTML",
-                level:"Experienced",
+                level:"Intermediate",
             },
             {
                 skill:"CSS",
-                level:"Experienced",
+                level:"Intermediate",
             },
             {
                 skill:"JavaScript",
-                level:"Experienced",
+                level:"Intermediate",
             },
             {
                 skill:"Tailwind",
@@ -261,7 +261,7 @@ export const experience = [
             },
             {
                 skill:"Bootstrap",
-                level:"Experienced",
+                level:"Intermediate",
             },
             // {
             //     skill:"React",
@@ -286,7 +286,7 @@ export const experience = [
             // },
             {
                 skill:"PHP",
-                level:"Experienced",
+                level:"Intermediate",
             },
             {
                 skill:"Python",
@@ -294,7 +294,7 @@ export const experience = [
             },
             {
                 skill:"MySQL",
-                level:"Experienced",
+                level:"Intermediate",
             },
         ]
     },
@@ -304,7 +304,7 @@ export const experience = [
       data:[
           {
               skill:"Postman",
-              level:"Experienced",
+              level:"Intermediate",
           },
           // {
           //     skill:"Swagger",
@@ -325,7 +325,7 @@ export const experience = [
         // },
         {
             skill:"Render",
-            level:"Experienced",
+            level:"Intermediate",
         },
         {
             skill:"Netlify",
@@ -339,7 +339,7 @@ export const experience = [
   data:[
       {
           skill:"MySQL Server",
-          level:"Experienced",
+          level:"Intermediate",
       },
       // {
       //     skill:"MangoDB",
